@@ -1,0 +1,13 @@
+// Variable Declarations
+var name = "Shagupta";        // String
+let age = 19;              // Number
+const isStudent = true;    // Boolean
+let hobbies = ["Drawing", "Coding", "Reading"];  // Array
+let address = { city: "Malegaon", state: "MH" }; // Object
+
+// Console Logging
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("Is Student:", isStudent);
+console.log("Hobbies:", hobbies);
+console.log("Address:", address);

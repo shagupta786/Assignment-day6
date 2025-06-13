@@ -1,0 +1,11 @@
+// Greet Function
+function greetUser(name) {
+    console.log("Welcome, " + name + "!");
+}
+greetUser("Shagupta");
+
+// Square Function
+function square(num) {
+    return num * num;
+}
+console.log("Square of 5 is:", square(5));
